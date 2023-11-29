@@ -1,3 +1,3 @@
-# Spotify music frontend page
-this is my second frontend project
-added some extra feature of music palyer options for user friendly usage
+# spotify musci player page
+this is a fornend page of spotify palyer made using HTML5 and CSS3,
+added some addition features of music controls to it for user friendly uasge.
